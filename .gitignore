@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.vscode
+.git
+.code-workspace
+__pycache__/
+
+*.pkl
+*.ptn
+
+data/
+checkpoints/
+roberta-base-tuned/
